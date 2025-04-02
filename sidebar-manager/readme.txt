@@ -3,8 +3,8 @@ Contributors: BrainstormForce
 Donate link: https://www.paypal.me/BrainstormForce
 Tags: custom sidebar, sidebar manager, custom widget areas, widgets, conditional sidebar
 Requires at least: 4.0
-Tested up to: 6.6
-Stable tag: 1.1.8
+Tested up to: 6.7
+Stable tag: 2.0.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -53,6 +53,9 @@ Other plugins we found are heavy with ugly interface, non supported, developed o
 
 
 == Changelog ==
+
+= 2.0.0 =
+- Fix: Fixed security issue from astra-notice library.
 
 = 1.1.8 =
 - Fix: Sidebar rendering issue where specifying "All Singulars from {{category}}" resulted in incorrect display of "{{category}} - Category" after saving.
